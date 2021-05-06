@@ -19,7 +19,9 @@
 
 body {
   font-family: 'Montserrat', sans-serif;
-  color: var(--third-color);
+  color: white;
+  background-color: var(--third-color) !important;
+
 }
 
 a {
